@@ -31,7 +31,7 @@ f3 = figura.area(4.0, 6)
 f4 = figura.area(4.0, 6.0, 8.0)
 f5 = figura.area(7)
 
-print("Círculo:", f1)  
+print("Circulo:", f1)  
 print("Rectangulo:", f2) 
 print("Triangulo:",f3) 
 print("Trapecio:", f4)  
